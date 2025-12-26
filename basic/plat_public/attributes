@@ -56,6 +56,12 @@ attribute hal_mtk_pq;
 attribute hal_mtk_pq_client;
 attribute hal_mtk_pq_server;
 
+# Date: 2022/10/10
+# MTKPOWER AIDL
+attribute hal_mtk_power;
+attribute hal_mtk_power_client;
+attribute hal_mtk_power_server;
+
 # MMLPQ AIDL
 attribute hal_mtk_mmlpq;
 attribute hal_mtk_mmlpq_client;
